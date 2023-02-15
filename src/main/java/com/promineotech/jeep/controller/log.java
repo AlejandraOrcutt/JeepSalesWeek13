@@ -7,4 +7,9 @@ public class log {
     
   }
 
+  public static void info(String string, String model, String trim) {
+    // TODO Auto-generated method stub
+    
+  }
+
 }
